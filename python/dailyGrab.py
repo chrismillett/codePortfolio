@@ -10,8 +10,6 @@ start = time.time()
 time_out = 60
 user_agent = {
     'User-agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0'}
-proxies = {'https': 'https://lum-customer-ai-zone-static:uvc1vshl7xhi@zproxy.lum-superproxy.io:22225','http': 'http://lum-customer-ai-zone-static:uvc1vshl7xhi@zproxy.lum-superproxy.io:22225'}
-    
 
 baseUrl = 'https://www.bbc.co.uk/'
 
